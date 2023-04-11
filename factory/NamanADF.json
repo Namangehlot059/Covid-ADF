@@ -1,0 +1,9 @@
+{
+	"name": "NamanADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11c072fe-e010-411c-b0da-fc2ebeaf62b6",
+		"tenantId": "ab52d4e5-9cc7-437a-bdda-f4239e145187"
+	}
+}
